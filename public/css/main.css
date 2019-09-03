@@ -1,0 +1,40 @@
+/*--- index.blade.php ---*/
+h5.mb-1 {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.expired-date {
+    color: #FF0000 !important;
+}
+
+.expires-date {
+    color: #FFBE00 !important;
+}
+
+.delete-product {
+    text-decoration: underline;
+}
+
+.btn-style {
+    margin-bottom: 15px;
+    width: 135px;
+}
+
+.btn-outline-info {
+    margin-top: 5px;
+}
+
+.justify-content-between .btn{
+    width: 70px;
+}
+
+.added-by {
+    float: right;
+    margin-top: 5px;
+    margin-right: 2px;
+}
+
+.no-result {
+    text-align: center;
+    padding-top: 100px;
+}
